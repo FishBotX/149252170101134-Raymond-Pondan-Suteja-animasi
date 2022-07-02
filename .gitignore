@@ -1,0 +1,7 @@
+
+BlenderAnim/Library/*
+BlenderAnim/Logs/*
+BlenderAnim/Temp*
+
+.vsconfig
+*.sln
